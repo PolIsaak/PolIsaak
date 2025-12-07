@@ -5,7 +5,7 @@
   <em>Building scalable digital experiences with 3+ years of expertise</em>
 </p>
 <p align="center">
-  E-commerce • ERP Systems • Web Applications • Cloud Solutions
+  E-commerce • ERP Systems • Web Applications
 </p>
 
 <h3 align="center">🚀 Transforming Ideas into Scalable Digital Solutions</h3>
