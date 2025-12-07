@@ -127,7 +127,7 @@ timeline
 - Building scalable systems for high-traffic environments
 
 **🎵 Previous:** Frontend Developer at **Shure Inc.** (2024)
-- Led web migrations and CMS implementations
+- Web migrations and CMS implementations
 - Contributed to web design initiatives
 
 **✈️ Previous:** Frontend Developer at **Aviada S.A. de C.V.** (2022 - 2025)
