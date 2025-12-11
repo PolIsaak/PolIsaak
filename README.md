@@ -118,7 +118,7 @@ timeline
     section 2024 - Growth
         Frontend & Content Developer @ Shure Inc. : Web Content Migrations : CMS Implementation : Web Design Initiatives
     section 2025 - Present
-        E-commerce Developer @ Piping Rock : Shopify Solutions : Cloud Architecture (AWS) : Business Automation
+        E-commerce Developer @ Piping Rock : Shopify Development : Cloud Architecture (AWS) : Business Automation
 ```
 
 **🏢 Current:** E-commerce Developer at **Piping Rock Health Products** (2025 - Present)
